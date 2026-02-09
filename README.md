@@ -26,6 +26,7 @@ npm install
 
 4.Start the development server
 npm start
+
 5.Open in browser
 The app will automatically open at http://localhost:3000
 If it doesn't, open your browser and go to the above URL.
