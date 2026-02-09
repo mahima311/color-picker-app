@@ -15,7 +15,7 @@ Useful for designers, developers, and students.
 
 ## How to Use
 
-1. **Clone the repository 
+1.Clone the repository 
 git clone https://github.com/mahima311/color-picker-app.git
 
 2.Navigate into the project folder
